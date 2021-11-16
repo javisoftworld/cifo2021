@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public float velocidad;
-	public bool estaVivo;
+    public bool estaVivo;
     	
     // Start is called before the first frame update
     void Start()
